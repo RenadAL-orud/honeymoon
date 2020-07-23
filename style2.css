@@ -1,0 +1,138 @@
+body{
+	margin: 0px;
+}
+header{
+background: #ccc;
+height: 50px;	
+
+
+}
+#login{
+	float:right;
+	word-spacing: 10px;
+	margin-right: 20px;
+
+} 
+#login a{
+	color:#000;
+	text-decoration-line: none;
+}
+#logo 
+{
+	float: left;
+	margin-left: 30px;
+	font-size: 30px;
+
+}
+#logo p
+{
+	font-size: 15px;
+ 
+
+}
+#logo2
+{
+	float: left;
+	margin-left: 30px;
+	
+}
+
+
+#logo1 i{
+	float: right;
+	margin-right:30px;
+	margin-top: 15px;
+	color: #000;
+	font-size:18px;
+
+
+}
+
+#img h3{
+	text-align: center;
+	text-transform:uppercase;
+	margin-top:30px;
+
+}
+#img h4{
+	text-align: center;
+	text-transform:capitalize;
+}
+#col{
+	width: 250px;
+	text-align: justify;
+	float:left;
+	margin: 15px;
+	padding: 20px;
+}
+#col p{
+	color:  #2e2e1f;
+
+}
+#m img{
+
+	
+	position: absolute;
+	
+}
+#m p{
+	margin-left: 150px;
+	font-size: 15px;
+	
+}
+#col3{
+	margin-top: 50px;
+}
+
+#m img {
+
+	margin-left: 60px;
+}
+#m
+{
+	clear: both;
+	background: 
+  #999966;
+font-size:12px;
+padding: 10px;
+}
+
+footer{
+	clear: both;
+	display:inline-block;
+	background:#ccc;
+}
+
+#col2{
+	width: 180px;
+	text-align: justify;
+	float:left;
+	margin:50px;
+	padding: 20px;
+
+}
+#col2 p{
+	font-size: 13px;
+}
+#col2 img{
+
+	padding: 3px;
+}
+
+
+#foo1 
+{
+	clear:both;
+	float: left;
+	margin-left: 30px;
+	padding: 20px;
+	font-size:15px;
+
+}
+
+nav  #foo2 img{
+padding: 12px;
+float: right;
+margin-bottom: 12px;
+
+}
